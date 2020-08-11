@@ -8,6 +8,7 @@ $ cd bpmn-opcua
 $ npm install
 ```
 create a new file called .env and add the IP adress of the OPCUA server
+`IP="http://...."`
 
 Run the Camunda Server (on windows the Camunda .bat file)
 
