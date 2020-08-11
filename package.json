@@ -1,0 +1,21 @@
+{
+  "name": "bpmn-opcua-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Zaniyar",
+  "license": "ISC",
+  "dependencies": {
+    "camunda-external-task-client-js": "^2.0.0",
+    "dotenv": "^8.2.0",
+    "node-opcua": "^2.7.0"
+  },
+  "devDependencies": {
+    "open": "^7.0.4"
+  }
+}
